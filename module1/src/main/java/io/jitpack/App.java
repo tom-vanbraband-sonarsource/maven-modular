@@ -10,6 +10,9 @@ public class App
     
     public static void main( String[] args )
     {
+	if (true) {
+	    // do nothing
+	}
         System.out.println(GREETING);
     }
 }
